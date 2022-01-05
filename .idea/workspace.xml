@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="406660f7-6b86-4343-8c02-0756dce49282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +11,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="21uXEMmxVzuxbNIVjG5H3lFO53L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,13 +63,33 @@
       <option name="presentableId" value="Default" />
       <updated>1638791836657</updated>
     </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <created>1641378045949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641378045950</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="243" y="339" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641377931531">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="243" y="339" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.736@0.0.1366.736" timestamp="1641377931531" />
     <state x="392" y="0" key="#stock_pred" timestamp="1638792312286">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="392" y="0" key="#stock_pred/0.0.1366.736@0.0.1366.736" timestamp="1638792312286" />
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1641378042449">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1641378042449" />
     <state width="1345" height="181" key="GridCell.Tab.0.bottom" timestamp="1638793201525">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -85,5 +106,9 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state width="1345" height="181" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1638793201525" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1641378160078">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.736@0.0.1366.736" timestamp="1641378160078" />
   </component>
 </project>
