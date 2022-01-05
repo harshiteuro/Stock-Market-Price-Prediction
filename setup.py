@@ -230,7 +230,8 @@ def update_graph(selected_dropdown_value):
              yaxis={"title":"Transactions Volume"})}
     return figure
 
+import os
 
-
-if __name__ == "__main__":
-    app.run_server(debug=True, use_reloader=False)
+if __name__ == '__main__':
+   port = int(os.environ.get("PORT", 5000))
+   app.run(debug=True, port=port)
